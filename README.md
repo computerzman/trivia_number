@@ -1,4 +1,6 @@
-# trivia
+# trivia number
+This my implementation for (Flutter TDD Clean Architecture) for Reso Coder on the following channel 
+https://www.youtube.com/playlist?list=PLB6lc7nQ1n4iYGE_khpXRdJkJEp9WOech
 
 A new Flutter project.
 
